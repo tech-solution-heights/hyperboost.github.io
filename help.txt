@@ -1,0 +1,6 @@
+https://urre.me/writings/docker-compose-and-jekyll/
+
+https://jekyllthemes.io/theme/agency-jekyll-theme
+
+--build and run command
+bundle exec jekyll serve
